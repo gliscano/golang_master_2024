@@ -142,6 +142,6 @@ func main() {
 	/* arrays() */
 	/* slices() */
 	/* maps() */
-	structFunction()
 	/* pointerStructFunction() */
+	structFunction()
 }
